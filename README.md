@@ -55,10 +55,6 @@ final_model = RandomForestRegressor(**best_params)
 final_model.fit(X_train, y_train)
 ```
 
-## Results
-
-- Final R² Score: [Your actual R² score]
-- Best Hyperparameters: [List the best parameters found]
 
 ## Project Structure
 
